@@ -1,8 +1,17 @@
+body {
+  display: block;
+  margin: 0; /* Removes the default margin */
+}
+
+
+
 #section-one { 
 width: 100%;
 color: white;  
 background-color: #1F2937;
 height: 500px;
+margin: 0px;
+
 
 }
 
